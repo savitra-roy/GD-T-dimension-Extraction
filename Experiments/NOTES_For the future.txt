@@ -1,0 +1,4 @@
+1. experiment 1 was yolov8n , with those 68 images
+2. experiment 2 was yolov8n , with the 132 images
+3.experiment 3 was yolov8n , with the same 132 images
+
